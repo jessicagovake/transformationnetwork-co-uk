@@ -1,1 +1,3 @@
 /index.php / 301
+/vegas-hero-gb/* /vegashero-gb/:splat 301
+/united-kingdom-gb/* /vegashero-gb/:splat 301
