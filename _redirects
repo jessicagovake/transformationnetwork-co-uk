@@ -1,3 +1,9 @@
 /index.php / 301
-/vegas-hero-gb/* /vegashero-gb/:splat 301
-/united-kingdom-gb/* /vegashero-gb/:splat 301
+/vegas-hero-casino-review-gb/* /vegas-hero-reviews-gb/:splat 301
+/vegashero-uk-gb/* /vegas-hero-reviews-gb/:splat 301
+/casino-vegashero-gb/* /vegas-hero-reviews-gb/:splat 301
+/vegashero-casino-gb/* /vegas-hero-reviews-gb/:splat 301
+/vegas-hero-casino-gb/* /vegas-hero-reviews-gb/:splat 301
+/vegashero-gb/* /vegas-hero-reviews-gb/:splat 301
+/vegas-hero-gb/* /vegas-hero-reviews-gb/:splat 301
+/united-kingdom-gb/* /vegas-hero-reviews-gb/:splat 301
